@@ -1,0 +1,52 @@
+[
+    {
+        "intrebare": "Care dintre următoarele jucării este cea mai populară pentru copiii cu vârste între 1 și 3 ani?",
+        "variante": ["Cuburi de construit", "Jocuri video", "Puzzle-uri complicate", "Seturi de chimie"],
+        "corect": "Cuburi de construit"
+    },
+    {
+        "intrebare": "Ce jucărie este recomandată pentru dezvoltarea abilităților motorii fine?",
+        "variante": ["Mingi de fotbal", "Cuburi de construit", "Jocuri de societate", "Cărți de colorat"],
+        "corect": 1
+    },
+    {
+        "intrebare": "Care este jucăria preferată de copiii care iubesc să construiască lucruri?",
+        "variante": ["Păpuși", "Mașinuțe", "Lego", "Jocuri de societate"],
+        "corect": 2
+    },
+    {
+        "intrebare": "Ce tip de jucărie este potrivit pentru dezvoltarea creativității?",
+        "variante": ["Seturi de desen și pictură", "Jocuri video", "Mașinuțe", "Seturi de construcție"],
+        "corect": 0
+    },
+    {
+        "intrebare": "Care dintre următoarele jucării este ideală pentru învățarea numerelor și literelor?",
+        "variante": ["Puzzle-uri educative", "Păpuși", "Jocuri video", "Biciclete"],
+        "corect": 0
+    },
+    {
+        "intrebare": "Ce jucărie este recomandată pentru copiii care iubesc aventura și explorarea?",
+        "variante": ["Seturi de trenulețe", "Telescoape pentru copii", "Cuburi de construit", "Puzzle-uri"],
+        "corect": 1
+    },
+    {
+        "intrebare": "Ce tip de jucărie ajută la dezvoltarea abilităților sociale ale copiilor?",
+        "variante": ["Jocuri de rol", "Puzzle-uri", "Jocuri video", "Seturi de construcție"],
+        "corect": 0
+    },
+    {
+        "intrebare": "Care dintre următoarele jucării este cea mai potrivită pentru copiii care iubesc sportul?",
+        "variante": ["Mașinuțe", "Mingi și echipamente sportive", "Păpuși", "Cuburi de construit"],
+        "corect": 1
+    },
+    {
+        "intrebare": "Ce tip de jucărie este recomandată pentru dezvoltarea abilităților logice și de rezolvare a problemelor?",
+        "variante": ["Puzzle-uri", "Păpuși", "Mașinuțe", "Jocuri de rol"],
+        "corect": 0
+    },
+    {
+        "intrebare": "Ce jucărie este ideală pentru copiii care iubesc tehnologia?",
+        "variante": ["Tablete educative", "Cuburi de construit", "Jocuri de societate", "Seturi de trenulețe"],
+        "corect": 0
+    }
+]
